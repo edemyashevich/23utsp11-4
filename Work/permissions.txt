@@ -1,0 +1,2 @@
+drwx------+ 2 codespace codespace 4096 Oct  4 15:18 Work/Демяшевич Елизавета Евгеньевна
+drwxrwx-w-+ 2 codespace codespace 4096 Oct  4 15:18 Work/Лабораторная работа №1!
